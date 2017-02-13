@@ -1,0 +1,52 @@
+{
+    "chart": {
+        "caption": "Comparison of Enterprise Level Antivirus Software",
+        "canvasborderalpha": "0",
+        "radarborderalpha": "50",
+        "radarborderthickness": "1",
+        "radarfillcolor": "#e6e6e6",
+        "showlabels": "1",
+        "drawanchors": "1",
+        "ymaxvalue": "10",
+        "showlimits": "1",
+        "bgcolor": "#ffffff",
+        "legendborderalpha": "0",
+        "showborder": "1",
+		"plotFillAlpha" : "0"
+    },
+    "categories": [
+        {
+            "category": [
+                {
+                    "label": "Centralized Deployability"
+                },
+                {
+                    "label": "Centralized Signature Updating"
+                },
+                {
+                    "label": "Active Firewall"
+                }
+            ]
+        }
+    ],
+    "dataset": [
+        {
+            "seriesname": "Kaspersky",
+            "color": "#cc0000",
+			"plotBorderColor": "#cc0000",
+			"plotBorderAlpha" : "70",
+			"plotBorderthickness": "3",
+            "data": [
+                {
+                    "value": "3"
+                },
+                {
+                    "value": "2.4"
+                },
+                {
+                    "value": "1.9"
+                }
+            ]
+        }
+    ]
+}

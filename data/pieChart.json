@@ -1,0 +1,54 @@
+{
+	"chart": {
+		"caption": "Incident Closure by Priorities",
+		"exportEnabled": "1",
+		"showHoverEffect": "0",
+		"enableSmartLabels": "1",
+		"startingAngle": "90",
+		"showborder": "1",
+		"captionFontSize": "16",
+		"captionFontColor": "#4d4d4d",
+		"captionFontBold": "1",
+		"subcaptionFontSize": "12",
+		"subcaptionFontColor": "#4d4d4d",
+		"subcaptionFontBold": "1",
+		"subcaptionFontItalic": "1",
+		"toolTipColor": "#ffffff",
+		"toolTipBorderThickness": "0",
+		"toolTipBgColor": "#000000",
+		"toolTipBgAlpha": "80",
+		"toolTipBorderRadius": "2",
+		"toolTipPadding": "5",
+		"theme": "fint"
+	},
+	"annotations": {
+		"autoScale": "1",
+		"groups": [{
+			"id": "user-images",
+			"items": [{
+				"type": "text",
+				"fillcolor": "#bfbfbf",
+				"fontsize": "12",
+				"text": "© Mindtree 2016",
+				"x": "630",
+				"y": "435"
+			}, {
+				"type": "text",
+				"fillcolor": "#bfbfbf",
+				"fontsize": "13",
+				"text": "ATLAS",
+				"bold": "1",
+				"italic": "1",
+				"x": "40",
+				"y": "435"
+			}]
+		}]
+	},
+	"data": [{
+		"label": "P2",
+		"value": 519
+	}, {
+		"label": "P1",
+		"value": 22
+	}]
+}

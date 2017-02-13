@@ -1,0 +1,282 @@
+[
+  {
+    "_id": 1,
+    "portfolioId": 2,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "EXTRAGEN",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 2,
+    "portfolioId": 2,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "INEAR",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 3,
+    "portfolioId": 2,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "BIOHAB",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 4,
+    "portfolioId": 1,
+    "TicketType": "Service Request",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "ROTODYNE",
+    "status": "OPEN"
+  },
+  {
+    "_id": 5,
+    "portfolioId": 1,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "DECRATEX",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 6,
+    "portfolioId": 2,
+    "TicketType": "Service Request",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "CALCU",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 7,
+    "portfolioId": 1,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "PARLEYNET",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 8,
+    "portfolioId": 1,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "ZIGGLES",
+    "status": "OPEN"
+  },
+  {
+    "_id": 9,
+    "portfolioId": 1,
+    "TicketType": "Service Request",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "TINGLES",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 10,
+    "portfolioId": 1,
+    "TicketType": "Problem",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "DATAGEN",
+    "status": "OPEN"
+  },
+  {
+    "_id": 11,
+    "portfolioId": 2,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "HANDSHAKE",
+    "status": "OPEN"
+  },
+  {
+    "_id": 12,
+    "portfolioId": 2,
+    "TicketType": "Service Request",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "OMATOM",
+    "status": "OPEN"
+  },
+  {
+    "_id": 13,
+    "portfolioId": 1,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "OPPORTECH",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 14,
+    "portfolioId": 1,
+    "TicketType": "Problem",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "GEOFARM",
+    "status": "OPEN"
+  },
+  {
+    "_id": 15,
+    "portfolioId": 1,
+    "TicketType": "Service Request",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "VORTEXACO",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 16,
+    "portfolioId": 1,
+    "TicketType": "Service Request",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "INRT",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 17,
+    "portfolioId": 1,
+    "TicketType": "Problem",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "FIREWAX",
+    "status": "OPEN"
+  },
+  {
+    "_id": 18,
+    "portfolioId": 2,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "INTRAWEAR",
+    "status": "OPEN"
+  },
+  {
+    "_id": 19,
+    "portfolioId": 1,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "MEDESIGN",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 20,
+    "portfolioId": 1,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "SOLGAN",
+    "status": "OPEN"
+  },
+  {
+    "_id": 21,
+    "portfolioId": 1,
+    "TicketType": "Problem",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "TOURMANIA",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 22,
+    "portfolioId": 2,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "NETAGY",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 23,
+    "portfolioId": 2,
+    "TicketType": "Problem",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "NETILITY",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 24,
+    "portfolioId": 1,
+    "TicketType": "Problem",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "HONOTRON",
+    "status": "CLOSED"
+  },
+  {
+    "_id": 25,
+    "portfolioId": 1,
+    "TicketType": "Service Request",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "CENTREE",
+    "status": "OPEN"
+  },
+  {
+    "_id": 26,
+    "portfolioId": 2,
+    "TicketType": "Incident",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "ZILIDIUM",
+    "status": "OPEN"
+  },
+  {
+    "_id": 27,
+    "portfolioId": 2,
+    "TicketType": "Problem",
+    "year": 2016,
+    "month": "November",
+    "priority": "P1",
+    "applicationName": "PHOTOBIN",
+    "status": "OPEN"
+  },
+  {
+    "_id": 28,
+    "portfolioId": 1,
+    "TicketType": "Service Request",
+    "year": 2016,
+    "month": "November",
+    "priority": "P2",
+    "applicationName": "COGNICODE",
+    "status": "OPEN"
+  }
+]

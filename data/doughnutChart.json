@@ -1,0 +1,79 @@
+{
+    "chart": {
+        "caption": "Split of Revenue by Months",
+        "subCaption": "Last year",
+        "numberPrefix": "$",
+        "bgColor": "#ffffff",
+        "showBorder": "0",
+        "use3DLighting": "0",
+        "showShadow": "0",
+        "enableSmartLabels": "0",
+        "startingAngle": "310",
+        "showLabels": "0",
+        "showPercentValues": "1",
+        "showLegend": "1",
+        "legendShadow": "0",
+        "legendBorderAlpha": "0",
+        "defaultCenterLabel": "Total revenue: $7.95M",
+        "centerLabel": "Revenue from $label: $value",
+        "centerLabelBold": "1",
+        "showTooltip": "0",
+        "decimals": "0",
+        "captionFontSize": "14",
+        "subcaptionFontSize": "14",
+        "subcaptionFontBold": "0",
+        "useDataPlotColorForLabels": "1",
+		
+		"theme" : "zune"
+    },
+    "data": [
+        {
+            "label": "Jan",
+            "value": "420000"
+        },
+        {
+            "label": "Feb",
+            "value": "810000"
+        },
+        {
+            "label": "Mar",
+            "value": "720000"
+        },
+        {
+            "label": "Apr",
+            "value": "550000"
+        },
+        {
+            "label": "May",
+            "value": "910000"
+        },
+        {
+            "label": "Jun",
+            "value": "510000"
+        },
+        {
+            "label": "Jul",
+            "value": "680000"
+        },
+        {
+            "label": "Aug",
+            "value": "620000"
+        },
+        {
+            "label": "Sep",
+            "value": "610000"
+        },
+        {
+            "label": "Oct",
+            "value": "490000"
+        },
+        {
+            "label": "Nov",
+            "value": "900000"
+        },
+        {
+            "label": "Dec",
+            "value": "730000"
+        }
+    ]
+}

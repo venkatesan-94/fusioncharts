@@ -1,0 +1,95 @@
+{
+    "chart": {
+        "caption": "Comparison of Project Revenue in a Month",
+        "xAxisname": "Team Name",
+        "yAxisName": "Revenues (In USD)",
+        "numberPrefix": "$",
+        "plotFillAlpha": "80",
+        "baseFontColor": "#333333",
+        "baseFont": "Helvetica Neue,Arial",
+        "captionFontSize": "14",
+        "subcaptionFontSize": "14",
+        "subcaptionFontBold": "0",
+        "showBorder": "0",
+        "bgColor": "#ffffff",
+        "showShadow": "0",
+        "canvasBgColor": "#ffffff",
+        "canvasBorderAlpha": "0",
+        "divlineAlpha": "100",
+        "divlineColor": "#999999",
+        "divlineThickness": "1",
+        "divLineDashed": "1",
+        "divLineDashLen": "1",
+        "divLineGapLen": "1",
+        "usePlotGradientColor": "0",
+        "showplotborder": "0",
+        "valueFontColor": "#ffffff",
+        "placeValuesInside": "1",
+        "showHoverEffect": "1",
+        "rotateValues": "1",
+        "showXAxisLine": "1",
+        "xAxisLineThickness": "1",
+        "xAxisLineColor": "#999999",
+        "showAlternateHGridColor": "0",
+        "legendBgAlpha": "0",
+        "legendBorderAlpha": "0",
+        "legendShadow": "0",
+        "legendItemFontSize": "10",
+        "legendItemFontColor": "#666666",
+		"theme" : "fint"
+    },
+    "categories": [
+        {
+            "category": [
+                {
+                    "label": "Mobility"
+                },
+                {
+                    "label": "Web Technologies"
+                },
+                {
+                    "label": "Digital"
+                },
+                {
+                    "label": "Cloud"
+                }
+            ]
+        }
+    ],
+    "dataset": [
+        {
+            "seriesname": "Actual Revenue",
+            "data": [
+                {
+                    "value": "20800"
+                },
+                {
+                    "value": "13900"
+                },
+                {
+                    "value": "24600"
+                },
+                {
+                    "value": "13700"
+                }
+            ]
+        },
+        {
+            "seriesname": "Target Revenue",
+            "data": [
+                {
+                    "value": "18000"
+                },
+                {
+                    "value": "14500"
+                },
+                {
+                    "value": "21000"
+                },
+                {
+                    "value": "14500"
+                }
+            ]
+        }
+    ]
+}

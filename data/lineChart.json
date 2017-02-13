@@ -1,0 +1,81 @@
+{
+    "chart": {
+    	"caption": "Monthly Revenue of Last year",
+        "subcaption": "2015",
+        "xAxisName": "Month",
+        "yAxisName": "Revenues (In USD)",
+        "numberPrefix": "$",
+        "lineThickness": "2",
+        "paletteColors": "#0075c2",
+        "baseFontColor": "#333333",
+        "baseFont": "Helvetica Neue,Arial",
+        "captionFontSize": "14",
+        "subcaptionFontSize": "14",
+        "subcaptionFontBold": "0",
+        "showBorder": "0",
+        "bgColor": "#ffffff",
+        "showShadow": "0",
+        "canvasBgColor": "#ffffff",
+        "canvasBorderAlpha": "0",
+        "divlineAlpha": "100",
+        "divlineColor": "#999999",
+        "divlineThickness": "1",
+        "divLineDashed": "1",
+        "divLineDashLen": "1",
+        "divLineGapLen": "1",
+        "showXAxisLine": "1",
+        "xAxisLineThickness": "1",
+        "xAxisLineColor": "#999999",
+        "showAlternateHGridColor": "0"
+    },
+    "data": [
+        {
+            "label": "Jan",
+            "value": "420000"
+        },
+        {
+            "label": "Feb",
+            "value": "810000"
+        },
+        {
+            "label": "Mar",
+            "value": "720000"
+        },
+        {
+            "label": "Apr",
+            "value": "550000"
+        },
+        {
+            "label": "May",
+            "value": "910000"
+        },
+        {
+            "label": "Jun",
+            "value": "510000"
+        },
+        {
+            "label": "Jul",
+            "value": "680000"
+        },
+        {
+            "label": "Aug",
+            "value": "620000"
+        },
+        {
+            "label": "Sep",
+            "value": "610000"
+        },
+        {
+            "label": "Oct",
+            "value": "490000"
+        },
+        {
+            "label": "Nov",
+            "value": "900000"
+        },
+        {
+            "label": "Dec",
+            "value": "730000"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "chart": {
+        "caption": "Monthly Revenue of Last year",
+        "subcaption": "Actual Revenues, Targeted Revenues & Profits",
+        "xaxisname": "Month",
+        "yAxisName": "Revenues (In USD)",
+        "numberprefix": "$",
+        "theme": "fint",
+        "bgColor": "#ffffff",
+        "borderAlpha": "20",
+        "canvasBorderAlpha": "0",
+        "usePlotGradientColor": "0",
+        "plotBorderAlpha": "10",
+        "placevaluesInside": "1",
+        "rotatevalues": "1",
+        "valueFontColor": "#ffffff",
+        "showXAxisLine": "1",
+        "xAxisLineColor": "#999999",
+        "divlineColor": "#999999",
+        "divLineDashed": "1",
+        "showAlternateHGridColor": "0",
+        "subcaptionFontBold": "0",
+        "subcaptionFontSize": "14",
+		"theme" : "zune"
+    },
+    "categories": [
+        {
+            "category": [
+                {
+                    "label": "Jan"
+                },
+                {
+                    "label": "Feb"
+                },
+                {
+                    "label": "Mar"
+                },
+                {
+                    "label": "Apr"
+                },
+                {
+                    "label": "May"
+                },
+                {
+                    "label": "Jun"
+                },
+                {
+                    "label": "Jul"
+                },
+                {
+                    "label": "Aug"
+                },
+                {
+                    "label": "Sep"
+                },
+                {
+                    "label": "Oct"
+                },
+                {
+                    "label": "Nov"
+                },
+                {
+                    "label": "Dec"
+                }
+            ]
+        }
+    ],
+    "dataset": [
+        {
+            "seriesname": "Actual Revenue",
+            "data": [
+                {
+                    "value": "420000"
+                },
+                {
+                    "value": "810000"
+                },
+                {
+                    "value": "720000"
+                },
+                {
+                    "value": "550000"
+                },
+                {
+                    "value": "910000"
+                },
+                {
+                    "value": "510000"
+                },
+                {
+                    "value": "680000"
+                },
+                {
+                    "value": "620000"
+                },
+                {
+                    "value": "610000"
+                },
+                {
+                    "value": "490000"
+                },
+                {
+                    "value": "900000"
+                },
+                {
+                    "value": "730000"
+                }
+            ]
+        },
+        {
+            "seriesname": "Planned Revenue",
+            "renderas": "line",
+            "showvalues": "0",
+            "data": [
+                {
+                    "value": "415000"
+                },
+                {
+                    "value": "800000"
+                },
+                {
+                    "value": "712000"
+                },
+                {
+                    "value": "480000"
+                },
+                {
+                    "value": "890000"
+                },
+                {
+                    "value": "526000"
+                },
+                {
+                    "value": "650000"
+                },
+                {
+                    "value": "615000"
+                },
+                {
+                    "value": "550000"
+                },
+                {
+                    "value": "460000"
+                },
+                {
+                    "value": "820000"
+                },
+                {
+                    "value": "680000"
+                }
+            ]
+        },
+        {
+            "seriesname": "Profit",
+            "renderas": "area",
+            "showvalues": "0",
+            "data": [
+                {
+                    "value": "50000"
+                },
+                {
+                    "value": "100000"
+                },
+                {
+                    "value": "80000"
+                },
+                {
+                    "value": "70000"
+                },
+                {
+                    "value": "20000"
+                },
+                {
+                    "value": "16000"
+                },
+                {
+                    "value": "20000"
+                },
+                {
+                    "value": "30000"
+                },
+                {
+                    "value": "60000"
+                },
+                {
+                    "value": "80000"
+                },
+                {
+                    "value": "50000"
+                },
+                {
+                    "value": "30000"
+                }
+            ]
+        }
+    ]
+}
